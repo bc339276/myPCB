@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name HMI_Controller-rescue)(type Legacy)(uri ${KIPRJMOD}/HMI_Controller-rescue.lib)(options "")(descr ""))
+  (lib (name HMI_ControllerV2-rescue)(type Legacy)(uri ${KIPRJMOD}/HMI_ControllerV2-rescue.lib)(options "")(descr ""))
+  (lib (name HMI_ControllerV4_20230424-rescue)(type Legacy)(uri ${KIPRJMOD}/HMI_ControllerV4_20230424-rescue.lib)(options "")(descr ""))
+  (lib (name HMI_ControllerV3_20230314-rescue)(type Legacy)(uri ${KIPRJMOD}/HMI_ControllerV3_20230314-rescue.lib)(options "")(descr ""))
+  (lib (name HMI_ControllerV3_20230312-rescue)(type Legacy)(uri ${KIPRJMOD}/HMI_ControllerV3_20230312-rescue.lib)(options "")(descr ""))
+)
